@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhargavi-kada-portfolio.vercel.app/sitemap.xml
